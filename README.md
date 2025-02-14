@@ -1,8 +1,8 @@
 # NYCU-2024-Computer-Organization
 授課教授：葉宗泰
+lab spec: https://nycu-caslab.github.io/CO2024/labs/Lab%200.html
 ## lab0
 env setup
-spec: https://nycu-caslab.github.io/CO2024/labs/Lab%200.html
 ## lab1
 single cycle CPU with simple RISC-V instruction
 ## lab2
