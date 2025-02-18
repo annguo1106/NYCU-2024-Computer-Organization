@@ -1,6 +1,6 @@
 # NYCU-2024-Computer-Organization
-授課教授：葉宗泰
-lab spec: https://nycu-caslab.github.io/CO2024/labs/Lab%200.html
+- 授課教授：葉宗泰
+- lab spec: https://nycu-caslab.github.io/CO2024/labs/Lab%200.html
 ## lab0
 env setup
 ## lab1
